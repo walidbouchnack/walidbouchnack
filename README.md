@@ -6,15 +6,15 @@
   <a href="mailto:walidbouchnack@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge"></a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndm9ueGZueGZ4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" />
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
   <li>🔭 I’m currently sharpening my skills at <strong>ISIMA Mahdia</strong>.</li>
-  <li>🧐 Learning more about <strong>Advanced Flutter architectures</strong> and <strong>VFX pipelines</strong>.</li>
+  <li>🧐 Learning about <strong>Advanced Flutter architectures</strong> and <strong>VFX pipelines</strong>.</li>
   <li>👨‍💻 Most of my coding projects and open-source contributions are right here on GitHub.</li>
   <li>💬 Ask me about <strong>Mobile Dev (Flutter), Web (PHP/Python), or UI Design</strong>.</li>
-  <li>⚡ Fun Fact: I like to mix the logic of code with the creativity of VFX.</li>
+  <li>🎉 Fun Fact: I like to mix the logic of code with the creativity of VFX.</li>
 </ul>
 
 <h2>🚀 Tech Stack & Tools</h2>
@@ -22,7 +22,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="35" height="35" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="35" height="35" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="35" height="35" />
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="35" height="35" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35" />
