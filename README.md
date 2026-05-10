@@ -2,7 +2,7 @@
 <p>I'm a passionate <strong>Software Developer</strong> and student at <strong>ISIMA Mahdia</strong>. I specialize in building cross-platform mobile apps and web solutions, with a strong focus on backend logic and system architecture.</p>
 
 <p>
-  <a href="https://www.linkedin.com/404/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
 </p>
 
